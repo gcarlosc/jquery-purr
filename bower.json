@@ -1,0 +1,12 @@
+{
+  "name": "jquery-purr",
+  "version": "0.1.0",
+  "main": "jquery.purr.js",
+  "ignore": [
+    "purr-example.html",
+    "purr-example"
+  ],
+  "dependencies": {
+    "jquery": "1.2.6"
+  }
+}
